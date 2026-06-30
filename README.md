@@ -39,7 +39,7 @@ The main page displaying all tasks.
 
 Users can quickly create a new task.
 
-![Add Task](screenshots/add_task.png)
+![Add Task](todoapp/screenshots/add_task.png)
 
 ---
 
@@ -47,7 +47,7 @@ Users can quickly create a new task.
 
 Example of tasks displayed in the application.
 
-![Task List](screenshots/task.png)
+![Task List](todoapp/screenshots/task.png)
 
 ---
 
@@ -55,7 +55,7 @@ Example of tasks displayed in the application.
 
 Completed tasks are visually distinguished for better organization.
 
-![Completed Task](screenshots/completed.png)
+![Completed Task](todoapp/screenshots/completed.png)
 
 ---
 
@@ -63,7 +63,7 @@ Completed tasks are visually distinguished for better organization.
 
 Tasks can be removed easily with a single action.
 
-![Delete Task](screenshots/delete.png)
+![Delete Task](todoapp/screenshots/delete.png)
 
 ---
 
