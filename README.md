@@ -31,7 +31,7 @@ A modern and intuitive **Todo application** developed using **Flutter** and **Da
 
 The main page displaying all tasks.
 
-![Home Screen](screenshots/home.png)
+![Home Screen](home.png)
 
 ---
 
